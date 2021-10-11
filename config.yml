@@ -1,5 +1,5 @@
 version: 2.1
-
+commands:
 default_docker: &defaults
   docker:
     - image: circleci/node:13.8.0
